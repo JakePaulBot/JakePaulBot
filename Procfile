@@ -1,1 +1,1 @@
-web: start run.py
+worker:start run.py
